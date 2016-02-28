@@ -1,0 +1,9 @@
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\bin\Debug\Races.exe
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\bin\Debug\Races.pdb
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\obj\x86\Debug\Races.Properties.Resources.resources
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\obj\x86\Debug\Races.exe
+c:\users\светлана\documents\visual studio 2010\Projects\Races\Races\obj\x86\Debug\Races.pdb
+C:\Users\Светлана\documents\visual studio 2010\Projects\Races\Races\obj\x86\Debug\Races.MainForm.resources
